@@ -1,1 +1,3 @@
-#quanttide-handbook-for-open-source
+# 量潮开源手册
+
+本手册总结设计、开发、上线、管理开源项目的实践经验。
