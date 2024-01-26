@@ -1,0 +1,9 @@
+format: jb-book
+root: index.md
+chapters:
+  - file: tech/README.md
+    sections:
+      - file: tech/design_a_new_package.md
+  - file: origanizations/README.md
+    sections:
+      - file: 
