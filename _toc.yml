@@ -6,4 +6,4 @@ chapters:
       - file: tech/design_a_new_package.md
   - file: origanizations/README.md
     sections:
-      - file: 
+      - file: origanizations/committees.md
